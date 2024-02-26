@@ -1,0 +1,109 @@
+%!Adobe-FontList 1.23
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/riccardobelfiore/Dropbox (Relactions)/Selezione - Junior Web Developer/Test Sviluppo Relactions/Desktop/Document fonts/AdobeFnt13.lst
+FileLength:1134
+FileModTime:606041366
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/riccardobelfiore/Dropbox (Relactions)/Selezione - Junior Web Developer/Test Sviluppo Relactions/Desktop/Document fonts/AdobeFnt21.lst
+FileLength:37
+FileModTime:611050211
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/riccardobelfiore/Dropbox (Relactions)/Selezione - Junior Web Developer/Test Sviluppo Relactions/Desktop/Document fonts/AdobeFnt22.lst
+FileLength:2633
+FileModTime:621188490
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/riccardobelfiore/Dropbox (Relactions)/Selezione - Junior Web Developer/Test Sviluppo Relactions/Desktop/Document fonts/AdobeFnt23.lst
+FileLength:2893
+FileModTime:671702327
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Flaticon
+FamilyName:Flaticon
+StyleName:Medium
+MenuName:Flaticon
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Flaticon
+WritingScript:Roman
+OutlineFileName:/Users/riccardobelfiore/Dropbox (Relactions)/Selezione - Junior Web Developer/Test Sviluppo Relactions/Desktop/Document fonts/Flaticon.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:94052
+FileModTime:488293664
+NameArray:0,Mac,4,Flaticon
+NameArray:0,Win,1,Flaticon
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Garamond3LTStd
+FamilyName:Garamond 3 LT Std
+StyleName:Regular
+MenuName:Garamond 3 LT Std
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Garamond 3 LT Std
+WritingScript:Roman
+OutlineFileName:/Users/riccardobelfiore/Dropbox (Relactions)/Selezione - Junior Web Developer/Test Sviluppo Relactions/Desktop/Document fonts/Garamond3LTStd.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:50796
+FileModTime:199376250
+NameArray:0,Mac,4,Garamond 3 LT Std
+NameArray:0,Win,1,Garamond 3 LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Apercu-Light
+FamilyName:Apercu
+StyleName:Light
+MenuName:Apercu Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Apercu Light
+WritingScript:Roman
+OutlineFileName:/Users/riccardobelfiore/Dropbox (Relactions)/Selezione - Junior Web Developer/Test Sviluppo Relactions/Desktop/Document fonts/{Colophon} Aperçu Light Typeface.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:275736
+FileModTime:465940688
+NameArray:0,Mac,4,Apercu Light
+NameArray:0,Win,1,Apercu Light
+NameArray:0,Win,16,Apercu
+%EndFont
+
